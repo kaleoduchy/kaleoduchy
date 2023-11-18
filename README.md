@@ -11,5 +11,13 @@
 ### Eu gosto de jogar jogos fps, gosto de ler manga, editar e animar manga.
 
 <div style="display: inline_block"><br/>
-<img aling="center" alt="devc3" src="https://camo.githubusercontent.com/394c0554d0c5dbe26a74cab0054d6b9e76c47c331564081e29fd740084105595/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6c696e652e737667" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="50" />
+</div>
+
+<div style="display: inline_block"><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" />
+</div>
+
+<div style="display: inline_block"><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
 </div>
