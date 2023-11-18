@@ -8,7 +8,7 @@
 
 ![Kaleo GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleoduchy&show_icons=true&theme=tokyonight)
 
-### Eu gosto de jogar jogos fps, gosto de ler manga, editar e animar manga.
+### Eu gosto de jogar jogos fps, gosto de ler manga.
 
 <div style="display: inline_block"><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="50" />
